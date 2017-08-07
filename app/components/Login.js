@@ -33,7 +33,7 @@ var Login = React.createClass({
       <View style={styles.container}>
         <View style={styles.titleContainer}>
         <Text style={styles.title}>
-          To-Do
+          Ka-Ching!
         </Text>
       </View>
       <View style={styles.field}>
